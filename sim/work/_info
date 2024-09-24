@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab4/sim
+vlfsreg
+Z0 !s110 1617340789
+!i10b 1
+!s100 foY6JNBB5=lC:L0OC7@3Y0
+IW`YnGeDz1JXQeZnDf1^SZ1
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim
+Z3 w1617340750
+Z4 8C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/modules_to_test.v
+Z5 FC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/modules_to_test.v
+L0 1
+Z6 OV;L;10.3c;59
+r1
+!s85 0
+31
+Z7 !s108 1617340789.438000
+Z8 !s107 C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/modules_to_test.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/modules_to_test.v|
+!i113 1
+Z10 o-work work
+vlfsreg_tb
+R0
+!i10b 1
+!s100 12FefR`aaJ^=d?CKhbef13
+I@Ql0Tnfk0B1oGbRLhED_@2
+R1
+R2
+w1617248327
+8C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/lfsreg_tb.v
+FC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/lfsreg_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1617340789.551000
+!s107 C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/lfsreg_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/lfsreg_tb.v|
+!i113 1
+R10
+vregister
+R0
+!i10b 1
+!s100 HLHc`YT@i;g;n]e?7XggJ1
+IgYElfNb<JdRe2>?UKBNO21
+R1
+R2
+R3
+R4
+R5
+L0 17
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vregister12
+R0
+!i10b 1
+!s100 Bm`0TKR9D[Hch47_Q<OcF1
+Im6`n`kkf[XJGD0SFlP?AB0
+R1
+R2
+R3
+R4
+R5
+L0 37
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vsyncron
+R0
+!i10b 1
+!s100 agI?kWn>99VnldcEjeG5X2
+I39zRTH7E_z4GjJRfdCiPa1
+R1
+R2
+R3
+R4
+R5
+L0 26
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vsyncron_tb
+R0
+!i10b 1
+!s100 4[Eo[j^:<P;[j_6?O>zGB0
+I`HKe1R@HMa[fkji1ABXG`0
+R1
+R2
+w1617340665
+8C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/syncron_tb.v
+FC:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/syncron_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1617340789.647000
+!s107 C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/syncron_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/syncron_tb.v|
+!i113 1
+R10

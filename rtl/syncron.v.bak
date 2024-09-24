@@ -1,0 +1,4 @@
+module syncron(input clk_1, input clk_2, input [11:0] in, output [11:0] out);
+
+
+endmodule

@@ -1,0 +1,26 @@
+C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/syncron_tb.v {1 {vlog -work work -stats=none C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/syncron_tb.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module syncron_tb
+
+Top level modules:
+	syncron_tb
+
+} {} {}} C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/modules_to_test.v {1 {vlog -work work -stats=none C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/modules_to_test.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module lfsreg
+-- Compiling module register
+-- Compiling module syncron
+-- Compiling module register12
+
+Top level modules:
+	lfsreg
+	syncron
+
+} {} {}} C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/lfsreg_tb.v {1 {vlog -work work -stats=none C:/Users/nickz/Desktop/YEAR_3/TERM_2/CPEN_311/Labs/Lab5/sim/lfsreg_tb.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module lfsreg_tb
+
+Top level modules:
+	lfsreg_tb
+
+} {} {}}
